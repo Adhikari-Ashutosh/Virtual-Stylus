@@ -1,7 +1,3 @@
-Here's the formatted README without the code blocks:
-
----
-
 # 🎨 Virtual Stylus Project through MediaPipe
 
 This project utilizes **MediaPipe** to create a virtual stylus that allows you to control your mouse using finger gestures. By tracking hand movements, this interface lets you interact with your computer in a more intuitive and touch-free way.
